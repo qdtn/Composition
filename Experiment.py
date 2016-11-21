@@ -1,4 +1,4 @@
-from Composition import get_composition_rep_concat, get_composition_rep_sum, get_composition_rep_sum_weight
+from Composition_start_code import get_composition_rep_concat, get_composition_rep_sum, get_composition_rep_sum_weight
 from Reader import read_dataset
 from WEDict import WEDict
 
