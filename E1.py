@@ -72,8 +72,8 @@ def cosine(u,v):
     print (x)
     print (y)
     print (z)
-    print ((math.sqrt(y)+ math.sqrt(z)))
-    print (x/(math.sqrt(y)+ math.sqrt(z)))
+    print ((math.sqrt(y)* math.sqrt(z)))
+    print (x/(math.sqrt(y)* math.sqrt(z)))
 
 
 print (cosine([0,1,2],[1,6,1]))
